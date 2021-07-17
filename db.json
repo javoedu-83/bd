@@ -1,6 +1,6 @@
 {
     "contacts": [
-        { "id": 1, "nombre": "Peter", "apellido": "Parker", "heroe": "Spider man", "url": "https://freepngimg.com/thumb/spiderman/34182-3-ultimate-spiderman-transparent-thumb.png"},
+        { "id": 1, "nombre": "Peter", "apellido": "Parker", "heroe": "Spider man"},
         { "id": 2, "nombre": "Tony", "apellido": "Stark", "heroe": "Iron man"},
         { "id": 3, "nombre": "Steve", "apellido": "Rogers", "heroe": "Capitan America"}
     ]
