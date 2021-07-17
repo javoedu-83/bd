@@ -1,8 +1,8 @@
 {
     "contacts": [
-        { "id": 1, "nombre": "Peter", "apellido": "Parker", "heroe": "Spider man"},
-        { "id": 2, "nombre": "Tony", "apellido": "Stark", "heroe": "Iron man"},
-        { "id": 3, "nombre": "Steve", "apellido": "Rogers", "heroe": "Capitan America"}
+        { "id": 1, "nombre": "Peter Parker", "heroe": "Spider man"},
+        { "id": 2, "nombre": "Tony Stark", "heroe": "Iron man"},
+        { "id": 3, "nombre": "Steve Rogers", "heroe": "Capitan America"}
     ]
 
 }
